@@ -1,0 +1,16 @@
+
+> frontend@0.1.0 dev
+> next dev -p 3000
+
+  ▲ Next.js 14.2.3
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 5.6s
+ ○ Compiling /login ...
+ ✓ Compiled /login in 4.8s (725 modules)
+ GET /login 200 in 5298ms
+ ✓ Compiled in 353ms (313 modules)
+ ✓ Compiled /register in 300ms (708 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /register 200 in 470ms
